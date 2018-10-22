@@ -1,0 +1,8 @@
+{
+  "files.exclude": {
+    "node_modules": true,
+    ".fusebox": true,
+    "**/.git": true
+  },
+  "editor.formatOnSave": true
+}
